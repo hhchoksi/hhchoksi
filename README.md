@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# 📈 GitHub Activity Insights
+![](https://github-readme-stats.vercel.app/api?username=hhchoksi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+### 🌟 Contributions Tracker
+![](https://github-readme-streak-stats.herokuapp.com/?user=hhchoksi&theme=tokyonight&hide_border=false)<br/>
+
 ## Leetcode Profile
 ![](https://leetcard.jacoblin.cool/choksi_harsh_18?ext=activity)
 <!--
