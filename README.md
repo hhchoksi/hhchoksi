@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Leetcode
+## Leetcode Profile
 ![](https://leetcard.jacoblin.cool/choksi_harsh_18?ext=activity)
 <!--
 **hhchoksi/hhchoksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
