@@ -1,7 +1,8 @@
 ## Hi there 👋
+## Harsh this side 😃
 
 <div align="center">
-	<h3> 🧰 Technologies and Tools</h3>
+	# <h3> 🔧 Technologies and Tools</h3>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
 		title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
@@ -17,8 +18,6 @@
 		title="React" alt="React" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
 		title="MySQL"  alt="MySQL" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"
-		title="Postgres" alt="Postgres" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"
 		title="MongoDB" alt="MongoDB" width="48" height="48"/>
 	<br/>
@@ -26,7 +25,7 @@
 		title="HTML" alt="HTML" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
 		title="TWCSS" alt="TWCSS" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"
+  	<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"
 		title="vite" alt="VITE" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 
 # 📈 GitHub Activity Insights
