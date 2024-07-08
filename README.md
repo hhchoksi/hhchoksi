@@ -9,7 +9,7 @@
 		title="TypeScript" alt="TypeScript" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
 		title="C++" alt="C++" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg"
+	<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"
 		title="Angular" alt="Angular" width="48" height="48"/>
 	<br/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
