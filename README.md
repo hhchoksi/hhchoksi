@@ -27,15 +27,19 @@
 		title="TWCSS" alt="TWCSS" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"
 		title="vite" alt="VITE" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
+</div>
 
-# 📈 GitHub Activity Insights
-![](https://github-readme-stats.vercel.app/api?username=hhchoksi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+### 📈 GitHub Activity Insights
+![](https://github-readme-stats.vercel.app/api?username=hhchoksi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### 🌟 Contributions Tracker
-![](https://github-readme-streak-stats.herokuapp.com/?user=hhchoksi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hhchoksi&theme=dark&hide_border=false)<br/>
 
-## Leetcode Profile
-![](https://leetcard.jacoblin.cool/choksi_harsh_18?ext=activity)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hhchoksi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hhchoksi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!--
 **hhchoksi/hhchoksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
