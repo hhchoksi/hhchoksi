@@ -29,6 +29,15 @@
 		title="vite" alt="VITE" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harsh-choksi-664966224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-choksi-664966224" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harsh_976" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_976" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/engineering_guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="engineering_guy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/choksi_harsh_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="choksi_harsh_18" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hhchok6pzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hhchok6pzr" height="30" width="40" /></a>
+</p>
+
 ### 📈 GitHub Activity Insights
 ![](https://github-readme-stats.vercel.app/api?username=hhchoksi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
@@ -40,6 +49,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hhchoksi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!--
 **hhchoksi/hhchoksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
