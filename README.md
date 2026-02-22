@@ -2,7 +2,7 @@
 ## Harsh this side 😃
 
 <div align="center">
-	# <h3> 🔧 Technologies and Tools</h3>
+	<h3> 🔧 Technologies and Tools</h3>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
 		title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
